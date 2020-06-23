@@ -1,3 +1,0 @@
-DROP DATABASE IF EXISTS myklas_v1;
-CREATE DATABASE myklas_v1;
-USE myklas_v1;
